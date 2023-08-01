@@ -23,6 +23,6 @@ python baidu_submit_url.py
 python bing_submit_url.py
 ```
 
-### License
+### 许可证
 
 >[Apache2.0](./LICENSE)
