@@ -1,4 +1,4 @@
-# pushWebsiteUrls
+# pushSitemapUrls
 
 ![License](https://img.shields.io/badge/License-Apache2.0-brightgreen) ![License](https://img.shields.io/badge/Version-v1.2.3-yellow)
 
