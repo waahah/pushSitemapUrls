@@ -25,4 +25,4 @@ python bing_submit_url.py
 
 ### License
 
->[Apache2.0](/License)
+>[Apache2.0](./LICENSE)
