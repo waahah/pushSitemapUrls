@@ -23,6 +23,9 @@ python baidu_submit_url.py
 python bing_submit_url.py
 ```
 
+### 运行示例
+![214805.png](https://s2.loli.net/2023/08/01/xBuhXCHPwWQ91kA.png)
+
 ### 许可证
 
 >[Apache2.0](./LICENSE)
